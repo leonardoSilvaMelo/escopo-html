@@ -1,0 +1,46 @@
+.header-cabecalho{
+    background-color: #8457fa;
+    padding: 60px;
+}
+
+.secao1{
+    background-image: url(https://www.esports-betting.com/wp-content/uploads/2021/03/new-esport-betting-site.jpeg);
+    background-color: #b57cfd;
+    padding: 300px;
+    background-repeat: no-repeat;
+    
+}
+
+.secao2{
+    background-color: #e6a1ff;
+    padding: 300px;
+}
+
+.div-1{
+    width: 200px;
+    height: 200px;
+    background-color: #210df5;
+}
+
+.div-2{
+    width: 200px;
+    height: 200px;
+    background-color: #8457fa;
+}
+
+.div-3{
+    width: 200px;
+    height: 200px;
+    background-color: #b57cfd;
+}
+
+.div-pai{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px;
+}
+
+.rodape{
+    padding: 100px;
+    background-color: #e6a1ff;
+}
